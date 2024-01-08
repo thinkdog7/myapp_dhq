@@ -1,0 +1,95 @@
+[
+  {
+    "order_id": "order_100001",
+    "advisor_id": "100001",
+    "situation": "MANA price booked a 75% bounce off its swing low as interest in the Metaverse is rekindled.",
+    "question": "Do you like apple?",
+    "price": 50,
+    "type": "Text Reading",
+    "advisor": {
+      "advisor_id": "100001",
+      "advisor_name": "Seshed Nakul",
+      "advisor_avatar": "https://samantha2022.s3.amazonaws.com/1.png",
+      "advisor_desc": "A metaverse is a network of 3D virtual worlds focused on social connection.[1][2][3] In futurism and science fiction, the term is often described as a hypothetical iteration of the Internet as a single, universal virtual world that is facilitated by the use of virtual and augmented reality headsets.[4][1]",
+      "services": [
+        {
+          "service_name": "Text Reading",
+          "service_desc": "Delivered in 24h",
+          "service_price": 50
+        },
+        {
+          "service_name": "Audio Reading",
+          "service_desc": "Delivered in 24h",
+          "service_price": 100
+        },
+        {
+          "service_name": "Video Reading",
+          "service_desc": "Delivered in 24h",
+          "service_price": 150
+        }
+      ]
+    }
+  },
+  {
+    "order_id": "order_100002",
+    "advisor_id": "100002",
+    "situation": "Data from Cointelegraph Markets Pro and TradingView shows that over the past two weeks",
+    "question": "Do you like banana?",
+    "price": 100,
+    "type": "Audio Reading",
+    "advisor": {
+      "advisor_id": "100002",
+      "advisor_name": "Rhazam Mesha",
+      "advisor_avatar": "https://samantha2022.s3.amazonaws.com/10.png",
+      "advisor_desc": "A couple from Tamil Nadu brought tradition and technology together when they hosted their wedding reception in the metaverse. Dinesh SP and Janaganandhini Ramaswamy got married on February 6 in Sivalingapuram, a small tribal village of Tamil Nadu. However, friends and family from across the world were able to attend the wedding reception that followed as it took place in a virtual world.",
+      "services": [
+        {
+          "service_name": "Text Reading",
+          "service_desc": "Delivered in 24h",
+          "service_price": 50
+        },
+        {
+          "service_name": "Audio Reading",
+          "service_desc": "Delivered in 24h",
+          "service_price": 100
+        },
+        {
+          "service_name": "Video Reading",
+          "service_desc": "Delivered in 24h",
+          "service_price": 150
+        }
+      ]
+    }
+  },
+  {
+    "order_id": "order_100003",
+    "advisor_id": "100003",
+    "situation": "As nonfungible tokens (NFTs) exploded in popularity in 2021",
+    "question": "Do you like orange?",
+    "price": 150,
+    "type": "Video Reading",
+    "advisor": {
+      "advisor_id": "100003",
+      "advisor_name": "Tival Featherpeak",
+      "advisor_avatar": "https://samantha2022.s3.amazonaws.com/11.jpeg",
+      "advisor_desc": "The year is 2035. You are walking along the Bund, Shanghai’s storied waterfront, with two of your old classmates, pointing out how much has changed since the last time you were here 20 years ago. You almost joke about how the only thing that never changes is Xi Jinping being in power, but you think better of it. Someone might be listening. A message flashes in your glasses, and you say hurried goodbyes. The landscape of the Bund dissolves into the fantasy realm of a multiplayer game, where three friends in magical armour are waiting, swords at the ready.",
+      "services": [
+        {
+          "service_name": "Text Reading",
+          "service_desc": "Delivered in 24h",
+          "service_price": 50
+        },
+        {
+          "service_name": "Audio Reading",
+          "service_desc": "Delivered in 24h",
+          "service_price": 100
+        },
+        {
+          "service_name": "Video Reading",
+          "service_desc": "Delivered in 24h",
+          "service_price": 150
+        }
+      ]
+    }
+  }
+]
